@@ -12,4 +12,5 @@ For each Trademarked term, amend in the following manner:
 - BattleMech -> BattleMek
 - 'Mech -> Mek
 - Mechwarrior -> Mekwarrior
-- BattleTech -> Do not use unless an appropriate reference, citation, discussion or comment (according to the US fair use law) related to the BattleTech suite of products.
+- BattleTech -> Do not use.
+With obvious exceptions for appropriate reference, citation, discussion or comment (according to the US fair use law) related to the BattleTech suite of products.
